@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserPicApp</string>
+
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">sing in</string>
+
+    <string name="welcome">Bienvenido</string>
+    <string name="name">Nombre</string>
+    <string name="email">email</string>
+    <string name="date">fecha</string>
+    <string name="downloadingInfo">Descargando información!</string>
+    <string name="wait">Un momento por favor...</string>
+
+</resources>
